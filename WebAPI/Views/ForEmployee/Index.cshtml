@@ -1,0 +1,61 @@
+﻿
+@model HR.DataLayer.BizLayer.BizEmployee
+
+@{
+    ViewBag.Title = "List of methods for Employee";
+}
+
+<br />
+<h3>WebAPI methods for Employee entities:</h3>
+<br />
+
+<div>    
+    
+    <a href="../api/Employee">Get all employees</a><br /><br />
+    <a href="../api/Employee/1">Get an employee by id</a><br /><br />
+        
+    <div">Add a new employee:</div>    
+    <form id="addform" method="post" action="../api/Employee" style="padding: 10px 0px 0px 0px">        
+        <input type="text" name="FirstName" placeholder="First Name"/><br /><br />
+        <input type="text" name="LastName" placeholder="Last Name"/><br /><br />
+        <input type="text" name="INN" placeholder="INN"/><br /><br />
+        <input type="date" name="DateBirthday" /><br/><br />
+        <input type="submit" id="add" value="Add new"/>        
+    </form><br /><br />
+    
+    <div>Update an employee data:</div>
+    <form id="updateform" method="post" action="../api/Employee" style="padding: 10px 0px 0px 0px">
+        <input type="text" name="EmployeeId" placeholder="Employee Id" value=""/><br /><br />
+        <input type="text" name="FirstName" placeholder="First Name" /><br /><br />
+        <input type="text" name="LastName" placeholder="Last Name" /><br /><br />
+        <input type="text" name="INN" placeholder="INN" /><br /><br />
+        <input type="date" name="DateBirthday" /><br /><br />
+        <input type="submit" id="update" value="Update" />
+    </form><br /><br />
+
+    <div>Delete an employee:</div>
+    <form id="deleteform" method="post" style="padding: 10px 0px 0px 0px">
+        <input type="text" id="EmployeeId" name="EmployeeId" placeholder="Employee Id"/><br /><br />        
+        <input type="submit" id="delete" value="Delete" />
+    </form><br /><br />
+
+</div>
+
+@section Scripts{
+    <script type="text/javascript">
+
+        $(function () {
+            $('#delete').click(function (e) {
+                e.preventDefault();
+
+                var emplId = $('#EmployeeId').val();               
+                $.ajax({                    
+                    url: '/api/Employee/' + emplId,
+                    type: 'DELETE'                    
+                });
+                
+            });
+        });
+
+    </script>
+    }

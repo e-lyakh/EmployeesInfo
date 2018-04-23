@@ -1,0 +1,43 @@
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\vs2017\asp.net season 2018\Lesson 18 IoC SOLID\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+D:\vs2017\в9п1_26\TemplateForStudent\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Google Drive\_ IT-Step\ASP.NET\2017-11-19 hw\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csprojResolveAssemblyReference.cache
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Google Drive\_ IT-Step\Git\WebApi\Step.Repository\Step.Repository\obj\Debug\Step.Repository.pdb
